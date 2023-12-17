@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irvan Nasyakban</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+Want+Be+a+Fullstack+Developer;and+Cloud+Computing)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfannasyakban&label=Profile%20views&color=0e75b6&style=flat" alt="irfannasyakban" /> </p>
 
