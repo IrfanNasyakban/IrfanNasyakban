@@ -24,6 +24,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IrfanNasyakban&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IrfanNasyakban)](https://git.io/streak-stats)
+
 ###
 
 <img align="right" height="150" src="https://github.com/IrfanNasyakban/IrfanNasyakban/assets/70449673/5030d399-7d62-4bdf-926f-1246a83bff8d"  />
