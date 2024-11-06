@@ -30,7 +30,7 @@
 <img align="right" height="150" src="https://github.com/IrfanNasyakban/IrfanNasyakban/assets/70449673/5030d399-7d62-4bdf-926f-1246a83bff8d"  />
 
 ###
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Language and Tool:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
