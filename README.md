@@ -55,7 +55,7 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect me:</h3>
 <div align="left">
   <a href="https://www.instagram.com/irfannasyakban?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
