@@ -9,13 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfannasyakban&label=Profile%20views&color=0e75b6&style=flat" alt="irfannasyakban" /> </p>
 
-- 🌱 I’m currently learning **Cloud Computing, FullStack Developer**
+- 🌱 I’m currently learning **Mobile Developer, FullStack Developer**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
-- 💬 Ask me about **Rest API, Cloud Computing**
-
-- 📫 How to reach me **irfanna.syakban098@gmail.com**
+- 📫 How to reach me **irvannasyakban@gmail.com**
 
 ###
 
